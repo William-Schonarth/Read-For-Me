@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body,
+button,
+textarea {
+  font-family: "Montserrat";
+}
+
+#container {
+  width: min(90%, 400px);
+  margin: auto;
+}
+
+textarea {
+  width: 90%;
+  height: calc(100vh - 212px);
+}
