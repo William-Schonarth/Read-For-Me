@@ -1,3 +1,4 @@
+//Comentario para testar VS Code no Git
 function speech() {
   return {
     isSpeaking: false,
